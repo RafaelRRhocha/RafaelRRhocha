@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/RafaelRRocha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelrrhocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrrhocha&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="141em" src="https://github-readme-stats.vercel.app/api?username=rafaelrrhocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="141em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrrhocha&layout=compact&langs_count=7&theme=dracula"/>
     
 </div>
 <div style="display: inline_block"><br>
@@ -19,12 +19,11 @@
   ##
   
 <div>
-   <a href="https://trybecourse.slack.com/team/U032QFHC7V1" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/rafaelrhocha/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/zXJCd5R3" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:1rafaelrocha2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-rocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaelrrhocha/RafaelRRhocha/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafaelrrhocha/rafaelrrhocha/blob/output/github-contribution-grid-snake.svg)
  
 </div>
