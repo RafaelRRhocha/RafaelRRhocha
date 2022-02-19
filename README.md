@@ -1,10 +1,11 @@
 # Olá! Me chamo Rafael Rocha, prazer em te conhecer! 👋
 
 <div>
+    <a href = "mailto:1rafaelrocha2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"       target="_blank"></a>
+    <a href="https://www.linkedin.com/in/rafael-rocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/rafaelrhocha/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/zXJCd5R3" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:1rafaelrocha2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafael-rocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/zXJCd5R3" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://steamcommunity.com/id/GoldenCooler/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
   
 </div>
 
@@ -21,7 +22,8 @@
 
 <div align="center">
   <a href="https://github.com/RafaelRRocha">
-  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=rafaelrrhocha&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=rafaelrrhocha&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+    <!- <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrrhocha&theme=nightowl"/> 
     
 </div>
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"
@@ -30,9 +32,10 @@
   
 #
       
-### Me chamo Rafael Rocha, tenho 18 anos e no momento estou estudando na Trybe! 
+### Me chamo Rafael Rocha, tenho 18 anos e estou estudando na Trybe! 
   - Gosto muito da área de tecnologia, estou atuando nela desde os 14 anos, sou apaixonado por hardware e formado em montagem e manutenção de eletrônicos! 
-  - No meu tempo livre gosto de fazer trekking e viajar ✈️  
+  - No meu tempo livre gosto de fazer trekking e viajar ✈️
+  - 
 
   
 <div>
