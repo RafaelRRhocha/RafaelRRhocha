@@ -35,7 +35,7 @@
 ### Me chamo Rafael Rocha, tenho 18 anos e estou estudando na Trybe! 
   - Gosto muito da área de tecnologia, estou atuando nela desde os 14 anos, sou apaixonado por hardware e formado em montagem e manutenção de eletrônicos! 
   - No meu tempo livre gosto de fazer trekking e viajar ✈️
-  - 
+  - Fique a vontade para me chamar nas redes sociais que estão no topo do perfil, será um prazer te conhecer melhor!
 
   
 <div>
