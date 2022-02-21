@@ -6,8 +6,6 @@
 ## Sobre Mim
 
 <div>
-  
-  
   <a href="https://www.linkedin.com/in/rafael-rocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://github.com/RafaelRRhocha/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href = "mailto:1rafaelrocha2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"       target="_blank"></a>
@@ -20,9 +18,9 @@
 <div align="left">
   <a href="https://github.com/RafaelRRocha">
   <img height="210em" src="https://github-readme-stats.vercel.app/api?username=rafaelrrhocha&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-      <!- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrrhocha&theme=nightowl"/>
     <img align="right" alt="Rafa-pic" height="220" style="border-radius:50px;"
      src="https://cdn.discordapp.com/attachments/705759802713702430/944357721002614805/1137f21b1feee84ef7ee8d70de4ec00b.jpg">
+    <!- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrrhocha&theme=nightowl"/>
            
  </div>
 <div style="display: inline_block"><br>
