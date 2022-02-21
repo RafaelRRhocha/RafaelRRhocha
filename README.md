@@ -6,8 +6,8 @@
 ## Sobre Mim
 
 <div>
-  <img align="right" alt="Rafa-pic" height="90" style="border-radius:50px;"
-     src="https://cdn.discordapp.com/attachments/705759802713702430/944357721002614805/1137f21b1feee84ef7ee8d70de4ec00b.jpg">
+  <!- <img align="right" alt="Rafa-pic" height="90" style="border-radius:50px;"
+     <!-src="https://cdn.discordapp.com/attachments/705759802713702430/944357721002614805/1137f21b1feee84ef7ee8d70de4ec00b.jpg">
   
   <a href="https://www.linkedin.com/in/rafael-rocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://github.com/RafaelRRhocha/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
