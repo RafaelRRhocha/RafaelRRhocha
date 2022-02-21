@@ -1,4 +1,8 @@
 # Olá! Me chamo Rafael Rocha, prazer em te conhecer! 👋
+
+<img align="right" alt="Rafa-pic" height="190" style="border-radius:50px;"
+ src="https://cdn.discordapp.com/attachments/705759802713702430/944357721002614805/1137f21b1feee84ef7ee8d70de4ec00b.jpg">
+ 
   - Desenvolvedor Web Full Stack 🖥️
   - Estudante Da Trybe 🚀
 
@@ -17,10 +21,8 @@
 
 <div align="left">
   <a href="https://github.com/RafaelRRocha">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rafaelrrhocha&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-    <!- <img align="right" alt="Rafa-pic" height="220" style="border-radius:50px;"
-     <!- src="https://cdn.discordapp.com/attachments/705759802713702430/944357721002614805/1137f21b1feee84ef7ee8d70de4ec00b.jpg">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrrhocha&theme=nightowl"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rafaelrrhocha&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrrhocha&theme=great-gatsby"/>
            
  </div>
 <div style="display: inline_block"><br>
