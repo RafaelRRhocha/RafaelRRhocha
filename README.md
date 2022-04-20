@@ -20,9 +20,9 @@
 ## Linguagens e Tecnologias
 
 <div align="left">
-  <a href="https://github.com/RafaelRRocha">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rafaelrrhocha&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrrhocha&theme=great-gatsby"/>
+  <a href="https://github.com/RafaelRRhocha">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RafaelRRhocha&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRRhocha&theme=great-gatsby"/>
            
  </div>
 <div style="display: inline_block"><br>
