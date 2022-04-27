@@ -26,7 +26,7 @@
    </div> <br>
  
  <div align="center"> 
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRRhocha&theme=great-gatsby"/>
+    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRRhocha&theme=great-gatsby&layout=compact"/>
  </div>
  
 <div style="display: inline_block"><br>
