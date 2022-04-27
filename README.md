@@ -21,12 +21,12 @@
 
 <div align="center">
   <a href="https://github.com/RafaelRRhocha">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RafaelRRhocha&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="http://github-readme-streak-stats.herokuapp.com?user=RafaelRRhocha&theme=great-gatsby&date_format=j%20M%5B%20Y%5D&stroke=1F6FEB&dates=58A6FF&fire=1F6FEB&ring=58A6FF">           
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RafaelRRhocha&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=RafaelRRhocha&theme=great-gatsby&date_format=j%20M%5B%20Y%5D&stroke=1F6FEB&dates=58A6FF&fire=1F6FEB&ring=58A6FF">           
  </div>
  
  <div align="center"> 
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRRhocha&theme=great-gatsby"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRRhocha&theme=great-gatsby"/>
  </div>
  
 <div style="display: inline_block"><br>
