@@ -4,7 +4,6 @@
  src="https://cdn.discordapp.com/attachments/705759802713702430/944357721002614805/1137f21b1feee84ef7ee8d70de4ec00b.jpg">
  
 - Full Stack Web Developer 🖥️
-- Trybe Student 🚀
 
 
 ## About Me
