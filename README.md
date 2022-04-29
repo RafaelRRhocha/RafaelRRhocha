@@ -7,7 +7,7 @@
 - Trybe Student 🚀
 
 
-## Sobre Mim
+## About Me
 
 <div>
   <a href="https://www.linkedin.com/in/rafael-rhocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -17,7 +17,7 @@
   <a href="https://steamcommunity.com/id/GoldenCooler/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
 
-## Linguagens e Tecnologias
+## Languages and Technologies
 
 <div align="center">
   <a href="https://github.com/RafaelRRhocha">
