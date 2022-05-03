@@ -44,4 +44,4 @@ Hi! My name is Rafael Rocha Souza 👋
 
 <a href="https://github.com/RafaelRRhocha" align="left"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRRhocha&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
 
-<a href="http://www.github.com/RafaelRRhocha"><img src="https://activity-graph.herokuapp.com/graph?username=RafaelRRhocha&bg_color=181824&color=ffffff&line=facc15&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/RafaelRRhocha"><img src="https://activity-graph.herokuapp.com/graph?username=RafaelRRhocha&bg_color=181824&color=ffffff&line=facc15&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> <br>
