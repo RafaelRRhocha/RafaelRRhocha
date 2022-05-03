@@ -1,44 +1,45 @@
-# Hi! My name is Rafael Rocha, nice to meet you! 👋
+Hi! My name is Rafael Rocha Souza 👋
+===================================
 
-<img align="right" alt="anm-pic" height="190" style="border-radius:50px;"
- src="https://cdn.discordapp.com/attachments/705759802713702430/944357721002614805/1137f21b1feee84ef7ee8d70de4ec00b.jpg">
- 
 - Full Stack Web Developer 🖥️
 - Trybe Student 🚀
 
-## About Me
+* 🌍  I'm based in Rio de Janeiro - Brazil
+* 🖥️  See my portfolio at [My Portfolio](http://https://rafaelrrhocha.github.io/Portfolio/)
+* ✉️  You can contact me at [1rafaelrocha2@gmail.com](mailto:1rafaelrocha2@gmail.com)
+* 🧠  I'm learning React and Redux
+* 🤝  I'm open to collaborating on social projects
 
-<div>
-  <a href="https://www.linkedin.com/in/rafael-rhocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://rafaelrrhocha.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href = "mailto:1rafaelrocha2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"       target="_blank"></a>
-  <a href="https://www.instagram.com/rafaelrhocha/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://steamcommunity.com/id/GoldenCooler/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
-</div>
+<br>
 
-## Languages and Technologies
+### Skills
 
-<div align="center">
-  <a href="https://github.com/RafaelRRhocha">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RafaelRRhocha&show_icons=true&theme=great-gatsby&bg_color=0d1117&border_color=0d1117&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=RafaelRRhocha&theme=great-gatsby&border=0d1117&background=0d1117&date_format=j%20M%5B%20Y%5D&stroke=1F6FEB&dates=58A6FF&fire=1F6FEB&ring=58A6FF">           
-   </div> <br>
- 
- <div align="center">
-    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRRhocha&theme=great-gatsby&bg_color=0d1117&border_color=0d1117&layout=compact"/>
- </div>
- 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-    
-<div>
- 
-  ![Snake animation](https://github.com/rafaelrrhocha/rafaelrrhocha/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+</p>
+
+<br>
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/Rafael Rocha#9695" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/RafaelRRhocha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/rafael_rhocha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rafael-rhocha/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+<br>
+
+<b>My GitHub Stats</b>
+
+ <a href="http://www.github.com/RafaelRRhocha"><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelRRhocha&show_icons=true&hide=issues,&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=181824&hide_border=true&show_icons=true" alt="RafaelRRhocha's GitHub stats" /></a>
+
+<a href="http://www.github.com/RafaelRRhocha"><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelRRhocha&stroke=ffffff&background=181824&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/RafaelRRhocha" align="left"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRRhocha&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
+
+<a href="http://www.github.com/RafaelRRhocha"><img src="https://activity-graph.herokuapp.com/graph?username=RafaelRRhocha&bg_color=181824&color=ffffff&line=facc15&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
