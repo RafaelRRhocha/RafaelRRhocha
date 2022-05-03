@@ -1,5 +1,4 @@
 Hi! My name is Rafael Rocha Souza 👋
-===================================
 
 - 🖥️ Full Stack Web Developer
 - 🚀 Trybe Student
