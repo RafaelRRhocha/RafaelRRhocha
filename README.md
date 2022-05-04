@@ -11,7 +11,7 @@ Hi! My name is Rafael Rocha Souza 👋
 
 <br>
 
-### Skills
+## Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
@@ -27,13 +27,13 @@ Hi! My name is Rafael Rocha Souza 👋
 
 <br>
 
-### Socials
+## Socials
 
 <p align="left"> <a href="https://discord.com/users/Rafael Rocha#9695" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/RafaelRRhocha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/rafael_rhocha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rafael-rhocha/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 <br>
 
-<b>My GitHub Stats</b>
+## My GitHub Stats
 
 <br>
 
