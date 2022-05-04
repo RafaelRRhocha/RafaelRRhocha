@@ -35,6 +35,8 @@ Hi! My name is Rafael Rocha Souza 👋
 
 <b>My GitHub Stats</b>
 
+<br>
+
 <div align="center">
   <a href="https://github.com/RafaelRRhocha">
      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RafaelRRhocha&show_icons=true&hide=issues,&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=181824&hide_border=true&show_icons=true" alt="RafaelRRhocha's GitHub stats">
