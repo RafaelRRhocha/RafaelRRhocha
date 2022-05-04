@@ -1,8 +1,6 @@
 Hi! My name is Rafael Rocha Souza 👋
 ===================================
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RafaelRRhocha"/></a> </p>
-
 - 🖥️ Full Stack Web Developer
 - 🚀 Trybe Student
 - 🌍  I'm based in Rio de Janeiro - Brazil
@@ -36,6 +34,8 @@ Hi! My name is Rafael Rocha Souza 👋
 <br>
 
 <b>My GitHub Stats</b>
+
+<a align="middle">[![trophy](https://github-profile-trophy.vercel.app/?username=RafaelRRhocha&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)</a>
 
 <div align="center">
   <a href="https://github.com/RafaelRRhocha">
