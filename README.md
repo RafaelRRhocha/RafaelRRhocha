@@ -9,7 +9,6 @@ Hi! My name is Rafael Rocha Souza 👋
 - 🧠  I'm learning React and Redux
 - 🤝  I'm open to collaborating on social projects
 
-<br>
 
 ## Skills
 
