@@ -11,6 +11,8 @@ Hi! My name is Rafael Rocha Souza 👋
 
 <br>
 
+![](./profile-3d-contrib/profile-season-animate.svg)
+
 ## Skills
 
 <p align="left">
