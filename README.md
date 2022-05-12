@@ -11,8 +11,6 @@ Hi! My name is Rafael Rocha Souza 👋
 
 <br>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
 ## Skills
 
 <p align="left">
@@ -36,6 +34,10 @@ Hi! My name is Rafael Rocha Souza 👋
 <br>
 
 ## My GitHub Stats
+
+<br>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <br>
 
