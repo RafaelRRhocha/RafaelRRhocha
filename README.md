@@ -37,7 +37,7 @@ Hi! My name is Rafael Rocha Souza 👋
 
 <br>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=RafaelRRhocha.visitor-badge)
+// ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=RafaelRRhocha.visitor-badge)
 
 <br>
 
