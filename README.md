@@ -9,8 +9,6 @@ Hi! My name is Rafael Rocha Souza 👋
 - 🧠  I'm learning React
 - 🤝  I'm open to collaborating on social projects
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
-
 <br>
 
 ## Skills
@@ -36,6 +34,10 @@ Hi! My name is Rafael Rocha Souza 👋
 <br>
 
 ## My GitHub Stats
+
+<br>
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=RafaelRRhocha.visitor-badge)
 
 <br>
 
