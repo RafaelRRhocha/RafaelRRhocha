@@ -40,7 +40,7 @@ Hi! My name is Rafael Rocha Souza 👋
 
 <br>
 
-## My GitHub
+## My GitHub Stats
 
 <br>
 
