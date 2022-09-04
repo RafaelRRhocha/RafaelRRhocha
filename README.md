@@ -1,7 +1,7 @@
 Hi! My name is Rafael Rocha Souza 👋
 ===================================
 
-- 🖥️ Full Stack Web Developer
+- 🖥️ Front End Developer
 - 🚀 Trybe Student
 - 🌍  I'm based in Rio de Janeiro - Brazil
 - 🖥️  See my portfolio at [My Portfolio](https://rafaelrocha-portfolio.vercel.app)
