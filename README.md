@@ -1,4 +1,4 @@
-Hi! My name is Rafael Rocha Souza 👋
+Hi! My name is Rafael Rocha 👋
 ===================================
 
 - 🖥️ Front End Developer
@@ -6,7 +6,7 @@ Hi! My name is Rafael Rocha Souza 👋
 - 🌍  I'm based in Rio de Janeiro - Brazil
 - 🖥️  See my portfolio at [My Portfolio](https://rafaelrocha-portfolio.vercel.app)
 - ✉️  You can contact me at [1rafaelrocha2@gmail.com](mailto:1rafaelrocha2@gmail.com)
-- 🧠  I'm learning NextJS and TypeScript
+- 🧠  I'm learning Next.js and TypeScript
 - 🤝  I'm open to collaborating on social projects
 
 <br>
@@ -37,8 +37,22 @@ Hi! My name is Rafael Rocha Souza 👋
 ## Socials
 
 <p align="left">
+<<<<<<< HEAD
 	<a href="https://discord.com/users/Rafael Rocha#9695" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/RafaelRRhocha" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/rafael_rhocha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rafael-rhocha/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+=======
+	<a href="https://discord.com/users/Rafael Rocha#9695" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+	</a>
+	<a href="https://www.github.com/RafaelRRhocha" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+	</a>
+	<a href="http://www.instagram.com/rafael_rhocha" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+	</a>
+	<a href="https://www.linkedin.com/in/rafael-rhocha/" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+>>>>>>> 9b7c007d1fa7417d4e6677d25030a7dd917ded90
 	</a>
 </p>
 
