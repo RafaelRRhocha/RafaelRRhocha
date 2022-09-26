@@ -37,10 +37,9 @@ Hi! My name is Rafael Rocha 👋
 ## Socials
 
 <p align="left">
-<<<<<<< HEAD
 	<a href="https://discord.com/users/Rafael Rocha#9695" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/RafaelRRhocha" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/rafael_rhocha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rafael-rhocha/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-=======
+	</a>	
 	<a href="https://discord.com/users/Rafael Rocha#9695" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
 	</a>
@@ -52,7 +51,6 @@ Hi! My name is Rafael Rocha 👋
 	</a>
 	<a href="https://www.linkedin.com/in/rafael-rhocha/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
->>>>>>> 9b7c007d1fa7417d4e6677d25030a7dd917ded90
 	</a>
 </p>
 
