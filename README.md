@@ -11,7 +11,7 @@ Hi! My name is Rafael Rocha 👋
 
 <br>
 
-## Skills
+## My Skills
 
 <p align="left">
 	<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/99758843/178770610-65f7917f-0482-4d0d-9d0a-17b343e29ebc.svg" width="36" height="36" alt="Git" /></a>
