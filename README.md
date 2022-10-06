@@ -1,4 +1,4 @@
-Hi! My name is Rafael Rocha 👋
+Hi, My name is Rafael Rocha!
 ===================================
 
 - 🖥️ Front End Developer
