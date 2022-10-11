@@ -6,7 +6,7 @@ Hi, My name is Rafael Rocha!
 - 🌍  I'm based in Campos dos Goytacazes - RJ (Brazil)
 - 🖥️  See my portfolio at [My Portfolio](https://rafaelrocha-portfolio.vercel.app)
 - ✉️  You can contact me at [1rafaelrocha2@gmail.com](mailto:1rafaelrocha2@gmail.com)
-- 🧠  I'm learning Next.js and TypeScript
+- 🧠  I'm learning TypeScript and Express
 - 🤝  I'm open to collaborating on social projects
 
 <br>
