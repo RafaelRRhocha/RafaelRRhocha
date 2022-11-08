@@ -1,17 +1,17 @@
-Hi, My name is Rafael Rocha Souza!
+Olá, meu nome é Rafael Rocha 👋
 ===================================
 
-- 🖥️ Front End Developer
-- 🚀 Trybe Student
-- 🌍  I'm based in Campos dos Goytacazes - RJ (Brazil)
-- 🖥️  See my portfolio at [My Portfolio](https://rafaelrocha-portfolio.vercel.app)
-- ✉️  You can contact me at [1rafaelrocha2@gmail.com](mailto:1rafaelrocha2@gmail.com)
-- 🧠  I'm learning Next and Typescript
-- 🤝  I'm open to collaborating on social projects
+- 🖥️ Desenvolvedor Front End
+- 🚀 Estudante Na Trybe
+- 🌍 Moro em Campos dos Goytacazes - RJ
+- 🖥️ Veja o meu Portfólio [My Portfolio](https://rafaelrocha-portfolio.vercel.app)
+- ✉️ Você pode entrar em contato comigo a partir do email [1rafaelrocha2@gmail.com](mailto:1rafaelrocha2@gmail.com)
+- 🧠 Estou Estudando Vue.js
+- 🤝 I'm open to collaborating on social projects
 
 <br>
 
-## My Skills
+## Minhas Stacks
 
 <p align="left">
 	<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/99758843/178770610-65f7917f-0482-4d0d-9d0a-17b343e29ebc.svg" width="36" height="36" alt="Git" /></a>
@@ -34,7 +34,7 @@ Hi, My name is Rafael Rocha Souza!
 
 <br>
 
-## My GitHub Stats
+## Status do GitHub
 
 <br>
 
