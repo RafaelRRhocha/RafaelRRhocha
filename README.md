@@ -1,10 +1,10 @@
-Olá, meu nome é Rafael Rocha 👋
+Olá! meu nome é Rafael Rocha 👋
 ===================================
 
 - 🖥️ Desenvolvedor Front End
 - 🚀 Estudante Na Trybe
 - 🌍 Moro em Campos dos Goytacazes - RJ
-- 🖥️ Veja o meu [Portfolio](https://rafaelrocha.vercel.app/)
+- 🖥️ Veja o meu [Portfolio](https://rafaelrocha.vercel.app)
 - ✉️ Você pode entrar em contato comigo a partir do [email](mailto:1rafaelrocha2@gmail.com)
 - 🧠 No momento estou Estudando Vue.js
 
