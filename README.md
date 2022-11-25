@@ -28,7 +28,6 @@ Olá! meu nome é Rafael Rocha 👋
 	<a href="https://pt-br.reactjs.org/docs/getting-started.html" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/99758843/178770622-34ccb59e-527e-4c2d-9e22-2c29946cf3eb.svg" width="36" height="36" alt="React" /></a>
 	<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/99758843/184502135-2c372c7d-97ca-4e19-97e1-f0a1f52eaa60.png" width="36" height="36" alt="NextJS" /></a>
 	<a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/99758843/178771208-02115902-024f-4156-bd96-f8eadeadd453.svg" width="36" height="36" alt="Redux" /></a>
-	<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/452/node-js.png" width="36" height="36" alt="NodeJS" /></a>
 </p>
 
 <br>
