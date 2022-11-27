@@ -1,7 +1,7 @@
 Olá! meu nome é Rafael Rocha 👋
 ===================================
 
-- 🖥️ Desenvolvedor Front End
+- 🖥️ Desenvolvedor Web
 - 🚀 Estudante Na Trybe
 - 🌍 Moro em Campos dos Goytacazes - RJ
 - 🖥️ Veja o meu [Portfolio](https://rafaelrocha.vercel.app)
