@@ -71,7 +71,7 @@
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+      src="https://user-images.githubusercontent.com/99758843/184502135-2c372c7d-97ca-4e19-97e1-f0a1f52eaa60.png"
       alt="nextjs"
       width="40"
       height="40"
@@ -116,7 +116,7 @@
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      src="https://github.com/URafaelRocha/URafaelRocha/assets/123375924/b099ed1a-74a3-4252-8b0b-aae45141bc13"
       alt="nodejs"
       width="40"
       height="40"
@@ -124,7 +124,7 @@
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      src="https://github.com/URafaelRocha/URafaelRocha/assets/123375924/46f2e9c0-2a2b-42fb-a5f5-8075e746e42a"
       alt="express"
       width="40"
       height="40"
@@ -140,7 +140,7 @@
   </a>
   <a href="https://sailsjs.com" target="_blank" rel="noreferrer">
     <img
-      src="https://sailsjs.com/images/logo_sails.png"
+      src="https://github.com/URafaelRocha/URafaelRocha/assets/123375924/146f15a8-1135-4683-a016-4bc24c007dd2"
       alt="sailsjs"
       width="40"
       height="40"
@@ -172,7 +172,7 @@
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+      src="https://github.com/URafaelRocha/URafaelRocha/assets/123375924/7d9de47a-0d41-42a3-9033-09bf6b208bfa"
       alt="docker"
       width="40"
       height="40"
@@ -185,7 +185,7 @@
 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      src="https://github.com/URafaelRocha/URafaelRocha/assets/123375924/b3e2960f-9f1c-4ca9-923c-286a41a5b564"
       alt="mysql"
       width="40"
       height="40"
@@ -193,7 +193,7 @@
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+      src="https://github.com/URafaelRocha/URafaelRocha/assets/123375924/a1de400a-439c-4d10-b667-c48240f2c4b2"
       alt="postgresql"
       width="40"
       height="40"
@@ -201,9 +201,9 @@
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+      src="https://github.com/URafaelRocha/URafaelRocha/assets/123375924/a311b73e-14c3-4c8f-b3c5-5b233279283f"
       alt="aws"
-      width="40"
+      width="55"
       height="40"
     />
   </a>
@@ -217,7 +217,7 @@
   </a>
   <a href="https://redis.io" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
+      src="https://github.com/URafaelRocha/URafaelRocha/assets/123375924/2187e9da-fbb2-440a-8a7b-364a84fea934"
       alt="redis"
       width="40"
       height="40"
@@ -230,7 +230,7 @@
 
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
+      src="https://github.com/URafaelRocha/URafaelRocha/assets/123375924/6e1efb44-6ed2-4681-8d53-1fed794d14ba"
       alt="cypress"
       width="40"
       height="40"
