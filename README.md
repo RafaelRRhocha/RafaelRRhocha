@@ -39,16 +39,8 @@
   </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
+      src="https://img.icons8.com/color/512/vue-js.png"
       alt="vuejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer">
-    <img
-      src="https://bestofjs.org/logos/vuetify.svg"
-      alt="vuetify"
       width="40"
       height="40"
     />
@@ -172,7 +164,7 @@
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://github.com/URafaelRocha/URafaelRocha/assets/123375924/7d9de47a-0d41-42a3-9033-09bf6b208bfa"
+      src="https://github.com/URafaelRocha/URafaelRocha/assets/123375924/0a1c460b-0795-455a-884c-a2a772ea232c"
       alt="docker"
       width="40"
       height="40"
