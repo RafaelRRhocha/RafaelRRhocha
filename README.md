@@ -6,7 +6,7 @@
 - 🖥️ Veja o meu [Portfolio](https://rrocha.tech)
 - ✉️ Você pode entrar em contato comigo a partir do [email](mailto:1rafaelrocha2@gmail.com)
 
-<br>
+<br />
 
 ## Minhas Stacks
 
@@ -25,6 +25,14 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
       alt="css3"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://jquery.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg"
+      alt="jquery"
       width="40"
       height="40"
     />
@@ -118,14 +126,6 @@
     <img
       src="https://github.com/URafaelRocha/URafaelRocha/assets/123375924/46f2e9c0-2a2b-42fb-a5f5-8075e746e42a"
       alt="express"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
-      alt="nestjs"
       width="40"
       height="40"
     />
@@ -246,18 +246,18 @@
   </a>
 </div>
 
-<br>
+<br />
 
-## Status do GitHub
+<!-- ## Status do GitHub
 
-<br>
+<br />
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<br>
+<br />
 
 <div align="center">
 	<a href="https://github.com/RafaelRRhocha">
 		<img src="https://activity-graph.herokuapp.com/graph?username=RafaelRRhocha&bg_color=181824&color=ffffff&line=facc15&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 	</a>
-</div>
+</div> -->
