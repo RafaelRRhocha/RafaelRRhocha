@@ -1,6 +1,6 @@
 # Olá! meu nome é Rafael Rocha e esta é minha conta pessoal!
 
-- 🖥️ Desenvolvedor Full Stack na [uMode](https://www.umode.com.br)
+- 🖥️ Desenvolvedor Full Stack
 - 🖥️ Veja minha conta de trabalho [aqui](https://github.com/URafaelRocha)
 - 🌍 Moro em Campos dos Goytacazes - RJ
 - 🖥️ Veja o meu [Portfolio](https://rrocha.tech)
