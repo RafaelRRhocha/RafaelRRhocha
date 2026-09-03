@@ -1,263 +1,87 @@
-# Olá! meu nome é Rafael Rocha e esta é minha conta pessoal!
+# Hi, I'm Rafael Rocha
 
-- 🖥️ Desenvolvedor Full Stack
-- 🖥️ Veja minha conta de trabalho [aqui](https://github.com/URafaelRocha)
-- 🌍 Moro em Campos dos Goytacazes - RJ
-- 🖥️ Veja o meu [Portfolio](https://rrocha.tech)
-- ✉️ Você pode entrar em contato comigo a partir do [email](mailto:1rafaelrocha2@gmail.com)
+**Front-End Engineer** · React · TypeScript · Design Systems
 
-<br />
+I build revenue-critical SaaS interfaces end to end, from architecture decisions to the pixels customers
+use every day. Since 2023 I have been at [uMode](https://umode.com.br), where I moved from writing product
+screens to leading the front-end of the platform the whole company sells. I work in **React and TypeScript**
+with Domain-Driven Design and Clean Architecture, and I ship the **NestJS and Ruby on Rails** services behind
+the interfaces I build.
 
-## Minhas Stacks
+- 🌍 Based in Campos dos Goytacazes, Brazil · open to remote work
+- 🧰 This is my personal account. My day-to-day work lives at [@URafaelRocha](https://github.com/URafaelRocha)
+- 🗣️ Portuguese (native) · English (intermediate)
 
-<div align="left">
-  <h3>Front End:</h3>
+## What I'm working on
 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://jquery.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg"
-      alt="jquery"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.icons8.com/color/512/vue-js.png"
-      alt="vuejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://quasar.dev/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg"
-      alt="quasar"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://user-images.githubusercontent.com/99758843/184502135-2c372c7d-97ca-4e19-97e1-f0a1f52eaa60.png"
-      alt="nextjs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-      alt="redux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
+- **Leading the front-end** of a multi-product dashboard: React 18 + TypeScript organized by Domain-Driven
+  Design and Clean Architecture across 14 product domains.
+- **A design system published to the public npm registry**: 145 components, semantic design tokens, light and
+  dark themes, automated releases, and a codemod that migrated an entire dashboard onto it in one cycle.
+- **An embeddable AI agent** that turns a request written in plain language into a reviewed Pull Request,
+  built on the Claude Agent SDK with a NestJS control plane running on AWS.
 
-  <br />
+## Tech stack
 
-  <h3>Back End:</h3>
+**Front-end**
 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://github.com/URafaelRocha/URafaelRocha/assets/123375924/b099ed1a-74a3-4252-8b0b-aae45141bc13"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://github.com/URafaelRocha/URafaelRocha/assets/123375924/46f2e9c0-2a2b-42fb-a5f5-8075e746e42a"
-      alt="express"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://sailsjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://github.com/URafaelRocha/URafaelRocha/assets/123375924/146f15a8-1135-4683-a016-4bc24c007dd2"
-      alt="sailsjs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"
-      alt="ruby"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg"
-      alt="rails"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://github.com/URafaelRocha/URafaelRocha/assets/123375924/0a1c460b-0795-455a-884c-a2a772ea232c"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue 3](https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-  <br />
+**Back-end**
 
-  <h3>Banco de Dados:</h3>
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://github.com/URafaelRocha/URafaelRocha/assets/123375924/b3e2960f-9f1c-4ca9-923c-286a41a5b564"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://github.com/URafaelRocha/URafaelRocha/assets/123375924/a1de400a-439c-4d10-b667-c48240f2c4b2"
-      alt="postgresql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://github.com/URafaelRocha/URafaelRocha/assets/123375924/a311b73e-14c3-4c8f-b3c5-5b233279283f"
-      alt="aws"
-      width="55"
-      height="40"
-    />
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
-      alt="gcp"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://github.com/URafaelRocha/URafaelRocha/assets/123375924/2187e9da-fbb2-440a-8a7b-364a84fea934"
-      alt="redis"
-      width="40"
-      height="40"
-    />
-  </a>
+**Data**
 
-  <br />
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-  <h3>Testes:</h3>
+**Cloud & tooling**
 
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://github.com/URafaelRocha/URafaelRocha/assets/123375924/6e1efb44-6ed2-4681-8d53-1fed794d14ba"
-      alt="cypress"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
-      alt="jest"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://mochajs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg"
-      alt="mocha"
-      width="40"
-      height="40"
-    />
-  </a>
-</div>
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
 
-<br />
+**Testing**
 
-<!-- ## Status do GitHub
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=white)
+![RSpec](https://img.shields.io/badge/RSpec-CC342D?style=flat-square&logo=ruby&logoColor=white)
 
-<br />
+**AI**
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![Claude Agent SDK](https://img.shields.io/badge/Claude%20Agent%20SDK-D97757?style=flat-square&logo=claude&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logoColor=white)
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-000000?style=flat-square&logoColor=white)
 
-<br />
+**Also work with:** Domain-Driven Design, Clean Architecture, ports and adapters, design tokens, npm package
+publishing, accessibility (WCAG), internationalization, code splitting and virtualization, REST APIs,
+Swagger/OpenAPI, WebSockets, JWT and AWS Cognito, microservices.
 
-<div align="center">
-	<a href="https://github.com/RafaelRRhocha">
-		<img src="https://activity-graph.herokuapp.com/graph?username=RafaelRRhocha&bg_color=181824&color=ffffff&line=facc15&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-	</a>
-</div> -->
+## Contributions
+
+![Contribution graph](./profile-3d-contrib/profile-night-rainbow.svg)
+
+## Where to find me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-rafaelrhocha.vercel.app-17439B?style=flat-square&logo=vercel&logoColor=white)](https://rafaelrhocha.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rafael--rhocha-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-rhocha/)
+[![Email](https://img.shields.io/badge/Email-1rafaelrocha2@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:1rafaelrocha2@gmail.com)
+[![Work account](https://img.shields.io/badge/Work%20account-@URafaelRocha-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/URafaelRocha)
